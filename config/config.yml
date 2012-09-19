@@ -1,0 +1,10 @@
+
+development:
+  paypal_url: "https://www.sandbox.paypal.com/cgi-bin/webscr"
+  paypal_email: "consul_1298288395_biz@enbake.com"
+  cert_id: TAAUUWXCHEXXC
+
+production:
+  paypal_url: "https://www.sandbox.paypal.com/cgi-bin/webscr"
+  paypal_email: "consul_1298288395_biz@enbake.com"
+  cert_id: TAAUUWXCHEXXC
